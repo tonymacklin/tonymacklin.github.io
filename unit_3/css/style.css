@@ -1,0 +1,31 @@
+body {
+	background-color: #FDE5C6;
+	color: #051F8D;
+	font-family: Tahoma, sans-serif;
+	text-align: center;
+}
+h1 {
+	color: #BE0942;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	font-style: italic;
+}
+
+h2 {
+	color: #BE0942;
+	font-weight: normal;
+	font-style: italic;
+
+}
+
+#subhead {
+	font-weight: bold;
+	font-size: 24px;
+	text-align: center;
+}
+
+
+.goleft {
+	text-align: left;
+}
