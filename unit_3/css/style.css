@@ -3,7 +3,7 @@ body {
 	<!--background-color: #FDE5C6;-->
 	background-color: #CCCCCD;
 	color: #051F8D;
-	font-family: Tahoma, sans-serif;
+	font-family: 'Righteous', cursive;
 	text-align: center;
 }
 h1 {
@@ -32,10 +32,6 @@ h2 {
 .goleft {
 	text-align: left;
 	font-size: 12px;
-}
-
-figure {
-
 }
 
 article {
