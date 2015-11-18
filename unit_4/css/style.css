@@ -6,6 +6,7 @@
 
 p 	{
 		font-family: 'Crimson Text', serif;
+		color: blue;
 }
 
 h2, h3	{	
@@ -15,18 +16,18 @@ h2, h3	{
 #logo	{
 		font-family: 'Sigmar One', cursive;
 		font-size: 4em;
-		color: FFFF00;
+		color: blue;
 }
 #slogan	{
 		font-family: 'Sigmar One', cursive;
 		font-size: 1.5em;
-		color: FFFF00;
+		color: blue;
 }
 
 figure {
 	
 	background: white;
-	font-family: 'Crimson Text', serif;
+	font-family: inherit;
 	margin: 1%;
 	width: 31.33%;
 	border: 2px solid #000;
